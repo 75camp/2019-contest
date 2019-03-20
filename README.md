@@ -6,6 +6,8 @@
 
 用 JavaScript 实现一个推箱子游戏
 
+![](https://p3.ssl.qhimg.com/t01a01fe1b96d05edcd.png)
+
 ## 要求
 
 - 能够选择关卡和难度
