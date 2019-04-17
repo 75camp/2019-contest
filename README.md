@@ -2,6 +2,10 @@
 
 这是星计划校招选拔的综合挑战题
 
+## 参考答案
+
+https://akira-cn.github.io/boxbox/
+
 ## 题目描述
 
 用 JavaScript 实现一个推箱子游戏
